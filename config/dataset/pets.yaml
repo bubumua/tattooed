@@ -1,0 +1,5 @@
+name: pets
+dim: 224
+n_classes: 2
+batch_size: 64
+num_workers: 10

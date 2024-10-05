@@ -1,0 +1,5 @@
+name: cifar100
+dim: 32
+n_classes: 100
+batch_size: 64
+num_workers: 10

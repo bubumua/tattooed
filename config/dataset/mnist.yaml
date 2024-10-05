@@ -1,0 +1,5 @@
+name: mnist
+dim: 28
+n_classes: 10
+batch_size: 64
+num_workers: 10

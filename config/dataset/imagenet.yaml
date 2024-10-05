@@ -1,0 +1,5 @@
+name: imagenet
+dim: 224
+n_classes: 1000
+batch_size: 64
+num_workers: 10

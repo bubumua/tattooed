@@ -1,0 +1,5 @@
+name: gtsrb
+dim: 32
+n_classes: 43
+batch_size: 64
+num_workers: 10
