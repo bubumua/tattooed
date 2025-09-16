@@ -3,7 +3,7 @@ trainer:
   progress_bar_refresh_rate: 1
   gpus: 1
   fine_tuning: false
-  model_name: ""
+  model_name: "mlp"
   use_gpu: true
 
 watermark:
@@ -30,5 +30,5 @@ removal:
 
 defaults:
   - _self_
-  - dataset: gtsrb
-  - model: vgg
+  - dataset: mnist
+  - model: mlp
